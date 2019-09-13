@@ -112,6 +112,9 @@
       <path value="$PROJECT_DIR$/application/vendor/lexik/jwt-authentication-bundle" />
       <path value="$PROJECT_DIR$/application/vendor/lcobucci/jwt" />
       <path value="$PROJECT_DIR$/application/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/application/vendor/exsyst/swagger" />
+      <path value="$PROJECT_DIR$/application/vendor/nelmio/api-doc-bundle" />
+      <path value="$PROJECT_DIR$/application/vendor/zircote/swagger-php" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />

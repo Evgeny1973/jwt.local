@@ -23,6 +23,7 @@
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/doctrine/reflection" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/easycorp/easy-log-handler" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/exsyst/swagger" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/fig/link-util" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/friendsofsymfony/user-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/jdorn/sql-formatter" />
@@ -30,6 +31,7 @@
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/lexik/jwt-authentication-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/monolog/monolog" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/namshi/jose" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/nelmio/api-doc-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/nikic/php-parser" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/ocramius/package-versions" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/ocramius/proxy-manager" />
@@ -114,6 +116,7 @@
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/webmozart/assert" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/zendframework/zend-code" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/zendframework/zend-eventmanager" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/zircote/swagger-php" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
