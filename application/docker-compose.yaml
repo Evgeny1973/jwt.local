@@ -16,7 +16,7 @@ services:
       - MYSQL_USER=sf4_user
       - MYSQL_PASSWORD=sf4_pw
     ports:
-      - "8306:3306"
+      - "3306:3306"
 
   webserver:
     image: nginx:alpine

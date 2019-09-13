@@ -109,6 +109,9 @@
       <path value="$PROJECT_DIR$/application/vendor/phpdocumentor/reflection-docblock" />
       <path value="$PROJECT_DIR$/application/vendor/zendframework/zend-eventmanager" />
       <path value="$PROJECT_DIR$/application/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/application/vendor/lexik/jwt-authentication-bundle" />
+      <path value="$PROJECT_DIR$/application/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/application/vendor/namshi/jose" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
