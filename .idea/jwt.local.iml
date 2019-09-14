@@ -32,6 +32,7 @@
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/monolog/monolog" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/namshi/jose" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/nelmio/api-doc-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/nelmio/cors-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/nikic/php-parser" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/ocramius/package-versions" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/ocramius/proxy-manager" />
